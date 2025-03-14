@@ -5,4 +5,4 @@ print("again from Explorer by id1")
 print("changes from local system")
 =======
 print("created changes from local system")
->>>>>>> Stashed changes
+print("Stash removed")
